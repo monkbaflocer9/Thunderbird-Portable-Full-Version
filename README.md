@@ -238,3 +238,6 @@ This repository serves as the official landing page for Thunderbird Portable. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Thunderbird Portable today!**
+
+---
+**Last updated:** 2026-09-11 05:42:04 UTC
