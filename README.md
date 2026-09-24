@@ -240,4 +240,4 @@ This repository serves as the official landing page for Thunderbird Portable. Th
 **Get the most recent version of Thunderbird Portable today!**
 
 ---
-**Last updated:** 2026-09-24 13:09:04 UTC
+**Last updated:** 2026-09-24 18:08:45 UTC
